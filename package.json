@@ -1,0 +1,25 @@
+{
+  "name": "indices-reajuste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "next": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diegoramosdrp/indices-reajuste.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diegoramosdrp/indices-reajuste/issues"
+  },
+  "homepage": "https://github.com/Diegoramosdrp/indices-reajuste#readme",
+  "dependencies": {
+    "next": "^13.0.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

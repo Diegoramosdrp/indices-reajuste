@@ -1,4 +1,4 @@
-import { useState} from 'react';
+import { useState } from 'react';
 
 function Home() {
     return (
@@ -13,7 +13,7 @@ function Contador() {
     const [contador, setContador] = useState(1);
 
     function adicionarContador() {
-        setContador(contador + 1);
+        setContador(contador * 2);
     }
 
     return (
